@@ -1,0 +1,12 @@
+
+IOC Investigation Notes
+
+1. IP Address: 192.0.2.10
+2. Domain: fake-login.example
+3. URL: hxxp://fake-login.example/login
+4. Email: attacker@example.test
+5. File Hash: Not available yet
+
+Purpose:
+To identify suspicious indicators
+related to a phishing email.
